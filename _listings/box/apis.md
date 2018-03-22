@@ -20,9 +20,9 @@ tags:
 - Files
 - Collaboration
 - Backup
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/box/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/box/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Box
@@ -33,7 +33,7 @@ apis:
   tags: Enterprise
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/box/enterprises-enterprise-id-device-pinners-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/box/enterprises-enterprise-id-device-pinners-get.md
 x-common:
 - type: x-base
   url: https://api.box.com/
