@@ -36,6 +36,20 @@ x-common:
   url: https://twitter.com/GooglePlay
 - type: x-website
   url: https://play.google.com/store
+- type: x-blog
+  url: https://blog.google/products/google-play/
+- type: x-blog-rss
+  url: https://blog.google/products/google-play/rss
+- type: x-developer
+  url: https://developers.google.com/android-publisher/
+- type: x-facebook
+  url: https://www.facebook.com/GooglePlay
+- type: x-getting-started
+  url: https://developers.google.com/android-publisher/getting_started
+- type: x-twitter
+  url: https://twitter.com/GooglePlay
+- type: x-website
+  url: https://play.google.com/store
 include: []
 maintainers:
 - FN: Kin Lane
