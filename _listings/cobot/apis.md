@@ -1,21 +1,15 @@
 ---
 name: Cobot
-description: Cobot is a management software for coworking spaces, office hubs, and
-  flexible workspaces around the world.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cobot.png
+x-slug: cobot
+description: Cobot is the leading management software for coworking spaces, office
+  hubs, and flexible workspaces around the world.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1374-cobot.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Scheduling
-- Project
-- Office
-- Enterprise
-- CRM
-- Coworking
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/cobot/apis.yaml
+x-alexaRank: "170219"
+tags: Enterprise
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/cobot/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -25,10 +19,18 @@ x-common:
   url: http://blog.cobot.me/
 - type: x-blog-rss
   url: http://blog.cobot.me/rss
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/cobot
 - type: x-developer
   url: https://www.cobot.me/pages/api/
+- type: x-email
+  url: info@cobot.me
+- type: x-email
+  url: support@cobot.me
 - type: x-github
   url: https://github.com/cobot
+- type: x-integrations
+  url: https://www.cobot.me/integrations
 - type: x-twitter
   url: https://twitter.com/cobot_me
 - type: x-website

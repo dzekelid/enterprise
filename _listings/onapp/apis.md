@@ -1,23 +1,15 @@
 ---
 name: OnApp
-description: OnApp develops cloud software for hosting providers. Using OnApp software,
-  any hosting provider can build and manage their own cloud hosting service, rapidly
-  and at low cost.  nnOnApp was founded in July 2010 after two years of development.
-  Since its launch, OnApp has deployed well over 275 clouds for some 250 hosting companies
-  around the world. More than 100,000 virtual machines run in OnApp-powered clouds,
-  and OnApp states that it deploys 2-3 new clouds every day for its clients.nnOnApp
-  has over 70 employees in the US and EU, and is headquartered in London, UK.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1230_logo.png
+x-slug: onapp
+description: A complete platform for public, private & hybrid cloud, CDN, storage
+  & DR, with instant scale via a global cloud marketplace. VMware, Xen, KVM, EC2.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1230-onapp.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Enterprise
-- Cloud
-- Cloud
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/onapp/apis.yaml
+x-alexaRank: "315506"
+tags: Enterprise
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/onapp/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -27,8 +19,14 @@ x-common:
   url: http://onapp.com/feeds/blog/4442771d95722374cc693b3b5dd56e0f
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/onapp
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/onapp
 - type: x-developer
   url: https://docs.onapp.com/
+- type: x-email
+  url: info@onapp.com
+- type: x-email
+  url: notices@onapp.com
 - type: x-github
   url: https://github.com/OnApp
 - type: x-twitter

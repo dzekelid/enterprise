@@ -1,31 +1,23 @@
 ---
 name: Knoema
+x-slug: knoema
 description: Knoema is the free to use public and open data platform for users with
   interests in statistics and data analysis, visual storytelling and making infographics
   and data-driven presentations
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/knoema-logo.jpg
 x-kinRank: "8"
 x-alexaRank: "38551"
-tags:
-- Technology
-- Sign In With LinkedIn
-- Sign In With Google
-- Sign In With Facebook
-- SaaS
-- REST
-- Market Data
-- JSON
-- Free Tier
-- Finance
-- Finance
-- Enterprise
-- Data
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/knoema/apis.yaml
+tags: Enterprise
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/knoema/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://kentico.cloud.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://knoema.stack.network
 - type: x-authentication
   url: https://knoema.com/dev/apps/authentication
 - type: x-blog

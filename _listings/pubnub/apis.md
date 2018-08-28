@@ -1,33 +1,26 @@
 ---
 name: PubNub
-description: PubNub is a blazingly fast cloud-hosted messaging service for building
-  real-time web and mobile apps. Hundreds of apps and thousands of developers rely
-  on PubNub for delivering ???human-perceptive??? real-time experiences that scale
-  to millions of users worldwide. PubNub delivers the infrastructure needed to build
-  amazing MMO games, social apps, business collaborative solutions, and more.
+x-slug: pubnub
+description: Focus on innovation and launch fast with our realtime APIs and global
+  messaging infrastructure for web, mobile, and Internet of Things.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/98-pubnub.jpg
 x-kinRank: "9"
 x-alexaRank: "65811"
-tags:
-- Technology
-- Stack Network
-- SaaS
-- Real Time
-- Networking
-- Mobile
-- internet
-- Enterprise
-- API LIfeycle
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/pubnub/apis.yaml
+tags: Enterprise
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/pubnub/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-hacker-news-search
+  url: PubNub
+- type: x-website
+  url: https://www.pubnub.com/
 - type: x-blog
   url: http://blog.pubnub.com
 - type: x-blog-rss
-  url: http://blog.pubnub.com/feed/
+  url: https://www.pubnub.com/blog/feed/
 - type: x-crunchbase
   url: https://crunchbase.com/organization/pubnub
 - type: x-crunchbase
@@ -48,6 +41,8 @@ x-common:
   url: http://ub.com
 - type: x-website
   url: http://pubnub.com
+- type: x-website
+  url: http://github.com
 include: []
 maintainers:
 - FN: Kin Lane

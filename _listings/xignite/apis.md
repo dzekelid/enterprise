@@ -1,49 +1,24 @@
 ---
 name: Xignite
+x-slug: xignite
 description: Financial market data on-demand. Xignite financial Web services help
   build smarter websites and applications in minutes with zero up-front investment.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
 x-kinRank: "9"
-x-alexaRank: "258878"
-tags:
-- Utility
-- Transcripts
-- Trading
-- Technology
-- Statistics
-- Stack Network
-- SaaS
-- Realestate
-- Publishing
-- Markets
-- Markets
-- Market Data
-- Logos
-- Jobs
-- JavaScript
-- Government
-- Getting Started
-- Financial News API
-- Financial
-- Finance
-- Finance
-- Enterprise
-- Energy
-- Economic
-- Currency
-- Charts
-- Business
-- Business
-- Bond Markets
-- Articles
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/xignite/apis.yaml
+x-alexaRank: "383974"
+tags: Enterprise
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/xignite/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
-- type: x-net-sdk
+- type: x--net-sdk
   url: http://xignite.github.io/DotNetSDK/
+- type: x-api-gallery
+  url: http://xibo.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://xignite.stack.network
 - type: x-base
   url: http://globalmaster.xignite.com
 - type: x-case-studies
@@ -102,6 +77,10 @@ x-common:
   url: https://resources.xignite.com/webinars
 - type: x-website
   url: http://www.xignite.com
+- type: x-website
+  url: http://xignite.com
+- type: x-website
+  url: http://xignite.com/
 - type: x-white-papers
   url: http://www.xignite.com/market-data/resources/white-papers/
 include: []

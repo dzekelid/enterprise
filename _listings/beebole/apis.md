@@ -1,29 +1,15 @@
 ---
 name: BeeBole
-description: 'A quick and intuitive timesheet for your team. And for you, a powerful
-  reporting and consolidation tool to bill your hours and track your project budgets.
-  Discover very easily where your time goes. The interface is modern and intuitive.
-  User adoption is guaranteed: Employees, Managers, Executives can use it instantly
-  without any training, theyll love it! Let them try it now! The continuous upgrades
-  are included in the subscription fee. And a great customer support is here to help
-  you or answer any question'
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/704_logo.png
+x-slug: beebole
+description: Online timesheets for businesses. Easy and flexible time-tracking to
+  make better decisions. No-credit-card free trial. Sign up now.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/704-beebole.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Time tracking
-- Time Tracking
-- Time Tracking
-- Target
-- Stack Network
-- Office
-- Enterprise
-- Calendaring
-- Calendar
-- Billing
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/beebole/apis.yaml
+x-alexaRank: "646139"
+tags: Enterprise
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/beebole/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -34,9 +20,13 @@ x-common:
 - type: x-blog-rss
   url: http://feeds2.feedburner.com/Beebuzz
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/beebole
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/beebole
 - type: x-developer
   url: http://beebole.com/api
+- type: x-email
+  url: support@beebole.com
 - type: x-github
   url: https://github.com/beebole
 - type: x-pricing

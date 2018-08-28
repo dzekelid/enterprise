@@ -1,31 +1,17 @@
 ---
 name: LiveOps
-description: 'LiveOps is the global leader in cloud contact center and customer service
-  solutions. nnMore than 200 companies around the world, including Salesforce.com,
-  Symantec, Royal Mail Group, and Amway New Zealand trust LiveOps technology to enable
-  effective multichannel, social and mobile interactions with their customers.  nnLiveOps
-  award-winning platform has processed more than 1 Billion minutes of customer interactions
-  and managed operations for the largest US-based cloud contact center of 20,000 home-based,
-  independent agents.  nnWith 10+ years of cloud experience LiveOps is the partner
-  of choice for companies wanting to migrate to the cloud. nnHeadquartered in Santa
-  Clara, California, LiveOps supports a wide range of industries including financial,
-  health care, insurance, retail, and high tech. '
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1338_logo.jpg
+x-slug: liveops
+description: Liveops is a pioneer in the contact center industry, with the largest
+  U.S.-based cloud contact center of more than 20,000 home-based, independent agents.
+  In 2000, we started the journey to help establish the work-from-home model in customer
+  service. Si...
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1338-liveops.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Support
-- Support
-- Stack Network
-- Sales
-- Help Desk
-- Enterprise
-- Customer service
-- Contacts
-- API LIfeycle
-created: "2018-03-10"
-modified: "2018-03-10"
-url: https://raw.githubusercontent.com/streamdata-gallery/enterprise/master/_listings/liveops/apis.yaml
+x-alexaRank: "122645"
+tags: Enterprise
+created: "2018-08-27"
+modified: "2018-08-27"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/enterprise/master/_listings/liveops/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -36,9 +22,27 @@ x-common:
 - type: x-blog-rss
   url: http://www.liveops.com/company/pressroom/news.xml
 - type: x-crunchbase
+  url: https://crunchbase.com/organization/liveops
+- type: x-crunchbase
   url: http://www.crunchbase.com/company/liveops
 - type: x-developer
   url: http://developer.liveops.com/
+- type: x-developer
+  url: https://knowledge.liveops.com/developer
+- type: x-email
+  url: sales@liveops.com
+- type: x-email
+  url: privacy@liveops.com
+- type: x-email
+  url: hello@liveops.com
+- type: x-email
+  url: press@liveops.com
+- type: x-email
+  url: joinliveops@liveops.com
+- type: x-email
+  url: loginsupport@liveops.com
+- type: x-email
+  url: terminatedagents@liveops.com
 - type: x-github
   url: https://github.com/liveops
 - type: x-twitter
